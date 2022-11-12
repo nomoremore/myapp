@@ -1,0 +1,1 @@
+export const SYSTEM_LOGO="https://www.cnlogo8.com/d/file/2022/0811/cnlogo8w0kth055zht.svg";
